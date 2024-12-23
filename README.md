@@ -26,3 +26,7 @@ This project demonstrates the result of a given API. The API fetches data from a
 npm i
 node index.js
 ```
+
+### Result
+
+go to localhost where site hosted . Frontend API driectly call there
